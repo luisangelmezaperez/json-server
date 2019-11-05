@@ -12,6 +12,14 @@
       "id": 1,
       "email": "luisangelmezaperez@gmail.com",
       "password": "123456",
+      "accessToken": "xsd1cjBAd6W4xYqLNrnB6ZWEgKPio4CAiE0zeU1A3cnn1eJu3NeJKVEPc0g9",
+      "refreshToken": "wA9PX0dhNVQHlmiWUPnqUBnQ1OepC0Bov4yBbQcQIwjelK3s1t2VGyQZpxYW",
+      "expire": 1572919684
+    },
+    {
+      "id": 2,
+      "email": "jarayatabilo@gmail.com",
+      "password": "123456",
       "accessToken": "xsd1cjBAd6W4xYqLNrnB6ZWEgKPio4CAiE0zeU1A3cnn1eJu3NeJKVEPc0g8",
       "refreshToken": "wA8PX0dhNVQHlmiWUPnqUBnQ1OepC0Bov4yBbQcQIwjelK3s1t2VGyQZpxYW",
       "expire": 1572919684
